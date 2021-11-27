@@ -6,5 +6,7 @@
     
 then past the password
 
-#update 
-        sudo apt-get update
+
+# update 
+        
+      sudo apt-get update
